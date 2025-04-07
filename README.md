@@ -43,15 +43,15 @@
 ### 결과 이미지
 - **실제 얼굴**:
 <div align="center">
-    <img src="images/Real%20Face.jpg" width="500" height="400">
+    <img src="images/Real%20Face.jpg" width="400" height="350">
 </div>
 
 - **가짜 얼굴**:
 <div align="center">
-    <img src="images/Fake%20Face.jpg" width="500" height="400">
+    <img src="images/Fake%20Face.jpg" width="400" height="350">
 </div>
 <div align="center">
-    <img src="images/FakeFace.jpg" width="500" height="400">
+    <img src="images/FakeFace.jpg" width="400" height="350">
 </div>
 
 ## 결론
