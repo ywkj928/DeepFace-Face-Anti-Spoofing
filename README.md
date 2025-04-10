@@ -16,7 +16,7 @@
 3. **Anti-Spoofing 기술**: 스푸핑 공격을 방지하기 위한 기술로, 얼굴 인식 시스템의 보안을 강화하는 데 필수적 입니다.
 
 ### 2. 구현 방법
-**사용기술**: DeepFace Library, Python (v3.9.21), Pandas, Numpy, TensorFlow, Keras, OpenCV, Ultralytics(Yolov11), Pillow, Flask, MTCNN, RetinaFace
+**사용 기술**: DeepFace Library, Python (v3.9.21), Pandas, Numpy, TensorFlow, Keras, OpenCV, Ultralytics(Yolov11), Pillow, Flask, MTCNN, RetinaFace
 1. **DeepFace.py**
    - 얼굴 인식 및 진짜/가짜 얼굴 판별
    - ResNet50 모델 로드 및 이진 분류를 위한 수정
